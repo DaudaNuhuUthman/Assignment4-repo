@@ -1,0 +1,42 @@
+.title{
+    height: 100vh;
+    color: rgb(2, 0, 0);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+}
+.form-title{
+        width: 300px;
+        height: 65vh;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        padding: 10px 10px;
+        border-radius: 3px;
+        background-color:rgb(101, 101, 172);
+}
+.form-group{
+    margin-bottom: 15px;
+}
+.btn{
+    color: white;
+    background-color: rgb(170, 170, 184);
+    padding: 5px 5px;
+    border-radius: 3px;
+    margin-bottom: 25px;
+   
+
+}
+.form-control{
+    border-radius: 5px;
+    font-size:medium;
+    margin-left: 2px;
+    flex-wrap: wrap;
+    padding: 2px 2px;
+}
+.style{
+    margin-right: 30px;
+}
